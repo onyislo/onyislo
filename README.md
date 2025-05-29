@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @onyislo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... codying never gets old
-
-<!---
-onyislo/onyislo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @onyislo  
+👀 I’m interested in software development, web development, embedded systems, and cybersecurity — especially pentesting, ethical hacking, and bug bounty hunting.  
+🌱 Always exploring better ways to create clean, efficient, and scalable code.  
+💞️ I’m looking to collaborate on open-source projects, side hustles, or anything tech that’s exciting and impactful.  
+📫 Reach me on Discord: onyisoo  
+😄 Pronouns: he/him  
+⚡ Fun fact: Coding never gets old — it’s like solving a new puzzle every day.
